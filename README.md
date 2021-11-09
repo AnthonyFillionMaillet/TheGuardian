@@ -29,7 +29,9 @@ The Guardian is a small application based on modern Android application tech-sta
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
 - [Moshi](https://github.com/square/moshi/) - A modern JSON library for Kotlin and Java.
 - [Coil](https://github.com/coil-kt/coil) - A modern image loading library.
-- [Material-Components](https://github.com/material-components/material-components-android) - Material design components.
+- [Material-Components](https://github.com/material-components/material-components-android)
+    - Material design components
+    - Light and [Dark theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme)
 
 ## Installation guide
 To run the project you will need to use your own API key. If you don't have one yet, you can register [here](https://open-platform.theguardian.com/access/) to get one.
