@@ -1,0 +1,31 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 2598,
+    "startIndex": 1,
+    "pageSize": 1,
+    "currentPage": 1,
+    "pages": 2598,
+    "orderBy": "newest",
+    "results": [
+      {
+        "id": "environment/2021/nov/05/bit-like-a-clown-boris-johnson-makes-impression-cop26",
+        "type": "article",
+        "sectionId": "environment",
+        "sectionName": "Environment",
+        "webPublicationDate": "2021-11-05T13:46:39Z",
+        "webTitle": "‘Like a clown’: what other countries thought of Boris Johnson at Cop26",
+        "webUrl": "https://www.theguardian.com/environment/2021/nov/05/bit-like-a-clown-boris-johnson-makes-impression-cop26",
+        "apiUrl": "https://content.guardianapis.com/environment/2021/nov/05/bit-like-a-clown-boris-johnson-makes-impression-cop26",
+        "fields": {
+          "headline": "‘Like a clown’: what other countries thought of Boris Johnson at Cop26",
+          "thumbnail": "https://media.guim.co.uk/62f5543c791747c4ed8d457747aa3883b41f9ce7/0_34_4000_2401/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      }
+    ]
+  }
+}

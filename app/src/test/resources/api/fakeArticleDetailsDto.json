@@ -1,0 +1,26 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1,
+    "content": {
+      "id": "football/live/2021/nov/04/genk-west-ham-leicester-city-spartak-moscow-rangers--brondby-europa-league-clockwatch-live",
+      "type": "liveblog",
+      "sectionId": "football",
+      "sectionName": "Football",
+      "webPublicationDate": "2021-11-04T22:14:08Z",
+      "webTitle": "Leicester 1-1 Spartak, Ferencvaros 2-3 Celtic, Spurs 3-2 Vitesse: Euro clockwatch – as it happened",
+      "webUrl": "https://www.theguardian.com/football/live/2021/nov/04/genk-west-ham-leicester-city-spartak-moscow-rangers--brondby-europa-league-clockwatch-live",
+      "apiUrl": "https://content.guardianapis.com/football/live/2021/nov/04/genk-west-ham-leicester-city-spartak-moscow-rangers--brondby-europa-league-clockwatch-live",
+      "fields": {
+        "headline": "Leicester 1-1 Spartak, Ferencvaros 2-3 Celtic",
+        "main": "<figure class=\"element element-image\"",
+        "body": "<div id=\"block-61845ad58f08acc2f87bbfc2\"",
+        "thumbnail": "https://media.guim.co.uk/14b2eed8aecaf94196f604d0a17ce88d1e14d566/131_71_1581_949/500.jpg"
+      },
+      "isHosted": false,
+      "pillarId": "pillar/sport",
+      "pillarName": "Sport"
+    }
+  }
+}
