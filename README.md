@@ -45,7 +45,10 @@ object Constants {
 }
 ```
 
-# License
+## Contributions
+All contributions are welcome, please fork this repository and contribute using pull requests.
+
+## License
 ```xml
 Designed and developed by Anthony Fillion-Maillet in 2021
 
