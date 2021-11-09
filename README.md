@@ -47,7 +47,7 @@ object Constants {
 
 # License
 ```xml
-Designed and developed by 2021 Anthony Fillion-Maillet
+Designed and developed by Anthony Fillion-Maillet in 2021
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
